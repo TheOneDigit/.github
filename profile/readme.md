@@ -1,27 +1,39 @@
 # OneDigit
 
-Welcome to OneDigit! We specialize in building advanced Computer Vision applications and cutting-edge AI and Generative AI solutions.
+Welcome to **OneDigit**! We specialize in building advanced **Computer Vision** applications and cutting-edge **AI** and **Generative AI** solutions.
 
-## Overview
+## 🌟 Overview
 
-At OneDigit, we are passionate about harnessing the power of artificial intelligence to solve real-world problems. Our team focuses on creating innovative solutions in the fields of:
+At OneDigit, we are passionate about harnessing the power of artificial intelligence to solve real-world problems. Our expertise spans across several domains, with a focus on creating innovative solutions in:
 
-- **Computer Vision**: From image and video analysis to object detection and facial recognition, we develop applications that see and understand the world around us.
-- **Artificial Intelligence (AI)**: Leveraging machine learning, deep learning, and natural language processing, we create intelligent systems that enhance business processes and user experiences.
-- **Generative AI**: Pushing the boundaries of creativity, we work on projects involving generative models for art, music, content creation, and more.
+- **Computer Vision**:
+  - Facial Emotion Recognition
+  - Threat Detection
+  - Vehicle Detection
+  - Object Detection and Tracking
+  - Image and Video Analysis
 
-## Our Mission
+- **Artificial Intelligence (AI)**:
+  - Machine Learning and Deep Learning Solutions
+  - Natural Language Processing (NLP)
+  - Predictive Analytics and Data Science
+
+- **Generative AI**:
+  - Creative AI for Art, Music, and Content Creation
+  - Generative Models for Various Applications
+
+## 🎯 Our Mission
 
 Our mission is to empower organizations and individuals with intelligent tools and applications that improve efficiency, enhance creativity, and unlock new possibilities.
 
-## Get Involved
+## 🤝 Get Involved
 
 We welcome collaboration and are always looking for new projects and partnerships. Whether you're an organization looking to leverage AI, a developer interested in joining our team, or simply curious about our work, we'd love to hear from you.
 
-## Contact Us
+## 📞 Contact Us
 
-Feel free to reach out to us at [contact@onedigit.ai](mailto:contact@onedigit.ai) for more information or to discuss potential collaborations.
+Feel free to reach out to us at [aqdas.onedigit@gmail.com] for more information or to discuss potential collaborations.
 
 ---
 
-Thank you for visiting OneDigit!
+Thank you for visiting **OneDigit**! 🚀
