@@ -32,7 +32,7 @@ We welcome collaboration and are always looking for new projects and partnership
 
 ## 📞 Contact Us
 
-Feel free to reach out to us at [aqdas.onedigit@gmail.com] for more information or to discuss potential collaborations.
+Feel free to reach out to us at [info@theonedigit.com] for more information or to discuss potential collaborations.
 
 ---
 
